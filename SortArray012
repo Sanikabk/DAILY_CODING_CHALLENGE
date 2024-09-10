@@ -1,4 +1,4 @@
-//Dutch National Flag Sort
+//Dutch National Flag Sort Technique used
 import java.util.Scanner;
 
 public class SortArray012 {
